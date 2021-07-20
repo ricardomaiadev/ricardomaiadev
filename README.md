@@ -10,7 +10,7 @@ Hi, my name is Ricardo, i'm Front-End developer, passionate about technology and
 
   🚀 &nbsp; Technologies: HTML, CSS, JavaScript, PHP and SQL.
   
-  🖥 &nbsp; Frameworks: Bootstrap.
+  🖥 &nbsp; Frameworks: Bootstrap, Laravel, Vue.
   
   💾 &nbsp; Database: MySQL and PostgreSQL.
   
