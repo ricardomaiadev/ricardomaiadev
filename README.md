@@ -10,7 +10,7 @@ Hi, my name is Ricardo, i'm Front-End developer, passionate about technology and
 
   🚀 &nbsp; Technologies: HTML, CSS, JavaScript, Vue, React, Angular, PHP, CakePhp and SQL.
   
-  🖥 &nbsp; Frameworks: Bootstrap, Laravel, Vue, React, Cakephp.
+  🖥 &nbsp; Frameworks: Bootstrap, Laravel, Vue, Nuxt, React, Next, Cakephp.
   
   💾 &nbsp; Database: MySQL and PostgreSQL.
   
@@ -24,8 +24,19 @@ Hi, my name is Ricardo, i'm Front-End developer, passionate about technology and
 
 </p>
 <p align="left">
-<a href="mailto:ricardomaiadev@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ricardomaiadev@gmail.com" /></a>
-<a href="https://br.linkedin.com/in/ricardomaiadev" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ricardomaiadev" /></a><a href="https://www.instagram.com/vemcomricardo/" target="_blank" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardomaiadev/"/></a></p>
+<a href="mailto:ricardomaiadev@gmail.com" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ricardomaiadev@gmail.com" />
+</a>
+<a href="https://br.linkedin.com/in/ricardomaiadev" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ricardomaiadev" />
+</a>
+<a href="https://www.instagram.com/ricardomaiadev/" target="_blank" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardomaiadev/"/>
+</a>
+<a href="https://ricardomaia.dev/portfolio" target="_blank" alt="Ricardo - Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-RicardoMaiaDev-blue"/>
+</a>
+</p>
 
 ![Snake animation](https://github.com/ricardomaiadev/ricardomaiadev/blob/output/github-contribution-grid-snake.svg)
 
